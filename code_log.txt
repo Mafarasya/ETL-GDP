@@ -1,0 +1,11 @@
+2024-Sep-17-14-:47:30: Preliminaries complete. Initiating ETL process
+2024-Sep-17-14-:47:30: Extract Phase Started
+2024-Sep-17-14-:47:32: Data extraction complete. Initiating Transformation process
+2024-Sep-17-14-:47:32: Transformation Phase Started
+2024-Sep-17-14-:47:32: Data transformation complete. Initiating Loading process
+2024-Sep-17-14-:47:32: Load Phase Started
+2024-Sep-17-14-:47:32: Data saved to CSV file
+2024-Sep-17-14-:47:32: SQL Connection initiated
+2024-Sep-17-14-:47:32: Data loaded to Database as a table, Executing queries
+2024-Sep-17-14-:47:32: Process Complete
+2024-Sep-17-14-:47:32: Server Connection closed
