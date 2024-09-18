@@ -7,7 +7,7 @@ The script automates the following tasks:
 1. **Data Extraction**: Scrapes the list of banks and their market capitalization from a Wikipedia page.
 2. **Data Transformation**: Converts market capitalization values to GBP, EUR, and INR using provided exchange rates.
 3. **Data Loading**: Saves the transformed data to a CSV file and an SQLite database.
-4. **Quarterly Report Generation**: Automates the entire process for repeated use every quarter.
+4. **Quarterly Report Generation**: Automates the entire process.
 5. **Logging**: Tracks the execution of each task in a log file for transparency and troubleshooting.
 
 ## Project Steps
